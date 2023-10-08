@@ -2,4 +2,4 @@
 
 | Variant       | IDE                | Programming language | Database |
 | ------------- | ------------------ | -------------------- | -------- |
-| 8             | Visual Studio      | C#                   |  Access  |
+| 8             | Visual Studio      | C#                   |  MySql   |
