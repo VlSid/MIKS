@@ -16,3 +16,9 @@ Lab 3_1 UML Adapter Pattern:
 
 Lab 3_2 UML Proxy Pattern:
 ![Alt text](image-3.png)
+
+Lab 4_1 UML Strategy Pattern:
+![Alt text](image-4.png)
+
+Lab 4_2 UML Iterator Pattern:
+![Alt text](image-5.png)
